@@ -51,9 +51,9 @@
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=chaitanya-codes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=chaitanya-codes&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=chaitanya-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=chaitanya-codes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chaitanya-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chaitanya-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
